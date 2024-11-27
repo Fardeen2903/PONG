@@ -81,4 +81,9 @@ Players can compete against each other using separate keyboard controls, and the
 - Built using Python’s `turtle` library.
 - Inspired by the original Pong game.
 
+---
+
+## License
+This project is licensed under the BSD 2-Clause License - see the [LICENSE](LICENSE) file for details.
+
 Enjoy the game! 🎮
